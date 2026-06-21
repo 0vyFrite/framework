@@ -7,7 +7,7 @@
 
     <servlet>
         <servlet-name>FrontController</servlet-name>
-        <servlet-class>ovy.framework.servlet.FrontControllerServlet</servlet-class>
+        <servlet-class>ovy.framework.servlet.controller.FrontControllerServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
